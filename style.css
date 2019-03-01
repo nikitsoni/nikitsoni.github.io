@@ -1,0 +1,89 @@
+.navbar-nav > li
+{
+	padding: 0 20px;
+}
+.landing-section
+{
+	background-image: url("C:/Users/Nikit Soni/Desktop/fujiwara project 2/background.jpg");
+	height: 100vh;
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+.headset
+{
+	padding-top: 250px;
+}
+.wrapper2
+{
+	border-radius: 5px;
+}
+.headset img
+{
+	position: absolute;
+	left: 10px;
+	top: 80px;
+}
+.headset h2
+{
+	font-family: sans-serif;
+	font-size: 42px;
+	font-weight: bold;
+
+}
+.headset h1
+{
+	font-family: sans-serif;
+	font-size: 62px;
+}
+.container p
+{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.sticky-one
+{
+	/*background-image: linear-gradient(147deg, #d5dddf, #1b2727);*/
+}
+.sticky-two
+{
+	margin-top: -32px;
+	/*background-image: linear-gradient(147deg, #d5dddf, #1b2727);*/
+}
+.card-text
+{
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.wrapper
+{
+	padding: 15px;
+}
+.row
+{
+	margin-top: -32px;
+}
+.secone, .sectwo
+{
+	padding: 20px 10px;
+	align-items: center; 
+}
+.myfoot > p 
+{
+	font-size: 15px;
+	font-family: sans-serif;
+	
+}
+@media screen and (max-width: 786px) {
+ 	.headset h2 
+ 	{
+    font-size: 32px;
+  	}
+  	.headset h1
+  	{
+  		font-size: 52px
+  	}
+}
