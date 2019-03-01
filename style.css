@@ -80,10 +80,10 @@
 @media screen and (max-width: 786px) {
  	.headset h2 
  	{
-    font-size: 32px;
+    		font-size: 27px;
   	}
   	.headset h1
   	{
-  		font-size: 52px
+  		font-size: 47px
   	}
 }
