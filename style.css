@@ -4,7 +4,7 @@
 }
 .landing-section
 {
-	background-image: url("background.jpg");
+	background-image: url("/background.jpg");
 	height: 100vh;
 	background-attachment: fixed;
   	background-position: center;
